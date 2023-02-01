@@ -1,0 +1,158 @@
+[
+	{
+		"id": "1",
+		"title": "Calculator",
+		"image": "/images/calculator.png",
+		"live": "https://lyr01.github.io/calculator-app/",
+		"repostoryGithub": "https://github.com/Lyr01/calculator-app",
+		"description": [
+			"Calculator is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to See the size of the elements adjust based on their device's screen size, Perform mathmatical operations like addition, subtraction, multiplication, and division and Adjust the color theme based on their preference.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "2",
+		"title": "Expense chart component",
+		"image": "/images/expense-chart-component.png",
+		"live": "https://lyr01.github.io/expense-chart-component/",
+		"repostoryGithub": "https://github.com/Lyr01/expense-chart-component",
+		"description": [
+			"Expense chart component is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the bar chart and hover over the individual bars to see the correct amounts for each day, See the current day’s bar highlighted in a different colour to the other bars, See the current day’s bar highlighted in a different colour to the other bars and See hover states for all interactive elements on the page.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "3",
+		"title": "Product preview card component",
+		"image": "/images/interactive-card-form.png",
+		"live": "https://lyr01.github.io/interactive-card-details-form//",
+		"repostoryGithub": "https://github.com/Lyr01/interactive-card-details-form/",
+		"description": [
+			"Product preview card component is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the optimal layout depending on their device's screen size, See hover and focus states for interactive elements and See the cards details change on screen.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "4",
+		"title": "Tip calculator app",
+		"image": "/images/tip-calculator-app.png",
+		"live": "https://lyr01.github.io/tip-calculator-app/",
+		"repostoryGithub": "https://github.com/Lyr01/tip-calculator-app",
+		"description": [
+			"Tip calculator app is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the optimal layout for the app depending on their device's screen size, See hover states for all interactive elements on the page and Calculate the correct tip and total cost of the bill per person.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "5",
+		"title": "Product preview card component",
+		"image": "/images/product-preview-card-component.png",
+		"live": "https://lyr01.github.io/product-preview-card-component/",
+		"repostoryGithub": "https://github.com/Lyr01/product-preview-card-component",
+		"description": [
+			"Product preview card component is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the optimal layout depending on their device's screen size and See hover and focus states for interactive elements.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "6",
+		"title": "Advice generator app",
+		"image": "/images/advice-generator-app.png",
+		"live": "https://lyr01.github.io/advice-generator-app/",
+		"repostoryGithub": "https://github.com/Lyr01/advice-generator-app",
+		"description": [
+			"Advice generator app is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the optimal layout for the app depending on their device's screen size, See hover states for all interactive elements on the page and Generate a new piece of advice by clicking the dice icon.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "7",
+		"title": "Component with sign up form",
+		"image": "/images/component-with-signup-form.png",
+		"live": "https://lyr01.github.io/component-with-signup-form/",
+		"repostoryGithub": "https://github.com/Lyr01/component-with-signup-form",
+		"description": [
+			"Component with sign up form is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page, Receive an error message when the form is submitted if Any input field is empty. The message for this error should say '[Field Name] cannot be empty' and The email address is not formatted correctly (i.e. a correct email address should have this structure: name@host.tld). The message for this error should say 'Looks like this is not an email'.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "8",
+		"title": "Interactive rating component",
+		"image": "/images/interactive-rating-component.png",
+		"live": "https://lyr01.github.io/interactive-rating-component/",
+		"repostoryGithub": "https://github.com/Lyr01/interactive-rating-component",
+		"description": [
+			"Interactive rating component is a web page and a solution that I created for the Frontend Mentor challange.",
+			"Users should be able to View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page, Select and submit a number rating and See the 'Thank you' card state after submitting a rating.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "typescript", "git", "github"]
+	},
+	{
+		"id": "9",
+		"title": "Full Stack Project for start2impact",
+		"image": "/images/finalproject.png",
+		"video": "src/video/projectFullStack.webm",
+		"repostoryGithub": "https://github.com/Lyr01/Progetto-Finale-Full-Stack-Hamza-Khan",
+		"description": [
+			"Full Stack Project is a web page and a project that I created for start2impact.",
+			"Users should be able to View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page, Sign in and Sign up with an account, Create and pubblish a post and comment finaly upvote or downvote a post.",
+			"Feel free to see the video of the project by visiting the See Video button."
+		],
+		"toolUsed": ["html", "css", "react", "javascript", "node", "git", "github"]
+	},
+	{
+		"id": "10",
+		"title": "Node Project for start2impact",
+		"image": "/images/NodeProject.png",
+		"video": "src/video/projectNode.webm",
+		"repostoryGithub": "https://github.com/Lyr01/Progetto-Nodejs-di-Hamza-Khan",
+		"description": [
+			"Node Project is a web page and a project that I created for start2impact.",
+			"Users should be able to View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page and Create and pubblish a post whit foto whit a form.",
+			"Feel free to see the video of the project by visiting the See Video button."
+		],
+		"toolUsed": ["html", "css", "react", "javascript", "node", "git", "github"]
+	},
+	{
+		"id": "11",
+		"title": "React Project for start2impact",
+		"image": "/images/ReactProject.png",
+		"live": "https://cerca-libro.web.app",
+		"repostoryGithub": "https://github.com/Lyr01/progetto-react-di-hamza-khan",
+		"description": [
+			"React Project is a web page and a project that I created for start2impact.",
+			"Users should be able to View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page, Search with the search input and See the Book infos on another page.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "react", "javascript", "git", "github"]
+	},
+	{
+		"id": "12",
+		"title": "JavaScript Project for start2impact",
+		"image": "/images/JavaScriptProject.png",
+		"live": "https://inquinamento-8d5f2.web.app/",
+		"repostoryGithub": "https://github.com/Lyr01/inquinamento-delle-citta",
+		"description": [
+			"JavaScript Project is a web page and a project that I created for start2impact.",
+			"Users should be able to View the optimal layout for the site depending on their device's screen size and Search with the search input and.",
+			"Feel free to check out the Project by visiting the See Live button."
+		],
+		"toolUsed": ["html", "css", "javascript", "git", "github"]
+	}
+]
