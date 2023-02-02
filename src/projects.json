@@ -107,7 +107,7 @@
 		"id": "9",
 		"title": "Full Stack Project for start2impact",
 		"image": "/images/finalproject.png",
-		"video": "src/video/projectFullStack.webm",
+		"video": "projectFullStack.webm",
 		"repostoryGithub": "https://github.com/Lyr01/Progetto-Finale-Full-Stack-Hamza-Khan",
 		"description": [
 			"Full Stack Project is a web page and a project that I created for start2impact.",
@@ -120,7 +120,7 @@
 		"id": "10",
 		"title": "Node Project for start2impact",
 		"image": "/images/NodeProject.png",
-		"video": "src/video/projectNode.webm",
+		"video": "projectNode.webm",
 		"repostoryGithub": "https://github.com/Lyr01/Progetto-Nodejs-di-Hamza-Khan",
 		"description": [
 			"Node Project is a web page and a project that I created for start2impact.",

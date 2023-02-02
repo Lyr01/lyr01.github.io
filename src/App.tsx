@@ -1,4 +1,5 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import VideoPlayer from "pages/VideoPlayer";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
@@ -8,13 +9,14 @@ import SingleProject from "./pages/SingleProject";
 function App() {
 	return (
 		<div className="portfolio">
-			<BrowserRouter>
+			<HashRouter>
 				<Routes>
 					<Route path="/" element={<Home />} />
 					<Route path="project/:id" element={<SingleProject />} />
+					<Route path="project/video/:name" element={<VideoPlayer />} />
 					<Route path="*" element={<NotFound />} />
 				</Routes>
-			</BrowserRouter>
+			</HashRouter>
 			<Footer />
 		</div>
 	);

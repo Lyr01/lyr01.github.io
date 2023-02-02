@@ -47,7 +47,7 @@ const SingleProject = () => {
 								{data?.live ? (
 									<a href={data?.live}>See Live</a>
 								) : (
-									<a href={"/" + data?.video}>See Video</a>
+									<a href={`#/project/video/${data.video}`}>See Video</a>
 								)}
 							</button>
 							<button className="see-btn">
@@ -55,6 +55,7 @@ const SingleProject = () => {
 							</button>
 						</div>
 					</div>
+
 					<div className="project-overview">
 						<div className="image">
 							{data.live ? (
@@ -66,7 +67,7 @@ const SingleProject = () => {
 									/>
 								</a>
 							) : (
-								<a href={"/" + data.video}>
+								<a href={`#/project/video/${data.video}`}>
 									<img
 										className="img-case-study"
 										src={data?.image}
