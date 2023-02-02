@@ -18,14 +18,14 @@ const About = () => {
 							<p>
 								Meticulous web developer with passion for responsive website
 								design. Obtained
-								<strong>Junior Full Stack Developer Certification</strong> from
+								<strong> Junior Full Stack Developer Certification</strong> from
 								start2impact University.
 								<br />
 								<br />
 								Almost 2 years of experience working on personal projects wich
-								you can see on my portfolio. Capable of self learning and
-								updating myself. Looking to deliver excellent web development
-								skills to help grow your business.
+								you can see down on the project section. Capable of self
+								learning and updating myself. Looking to deliver excellent web
+								development skills to help grow your business.
 								<br />
 								<br />
 								I'm open to Job opportunities where I can contribute, learn and

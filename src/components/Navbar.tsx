@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 
+import { HashLink } from "react-router-hash-link";
+
 const Navbar = () => {
 	const [isOpen, setIsOpen] = useState(false);
 
@@ -10,18 +12,18 @@ const Navbar = () => {
 				<p className="name">hamza khan</p>
 			</div>
 			<div className={`navbar ${isOpen ? "open" : "close"}`}>
-				<a onClick={() => setIsOpen(false)} href="/">
+				<HashLink onClick={() => setIsOpen(false)} to="/#home">
 					Home
-				</a>
-				<a onClick={() => setIsOpen(false)} href="/#about">
+				</HashLink>
+				<HashLink onClick={() => setIsOpen(false)} to="/#about">
 					About me
-				</a>
-				<a onClick={() => setIsOpen(false)} href="/#projects">
+				</HashLink>
+				<HashLink onClick={() => setIsOpen(false)} to="/#projects">
 					Projects
-				</a>
-				<a onClick={() => setIsOpen(false)} href="/#contact">
+				</HashLink>
+				<HashLink onClick={() => setIsOpen(false)} to="/#contact">
 					Contact
-				</a>
+				</HashLink>
 			</div>
 			<div
 				onClick={() => setIsOpen(false)}
